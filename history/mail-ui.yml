@@ -1,7 +1,7 @@
 url: $VCSOFT_MAIL
-status: up
-code: 200
-responseTime: 435
-lastUpdated: 2026-01-16T23:26:34.162Z
+status: down
+code: 502
+responseTime: 3108
+lastUpdated: 2026-01-16T23:41:04.085Z
 startTime: 2025-11-11T21:02:29.824Z
 generator: Upptime <https://github.com/upptime/upptime>
