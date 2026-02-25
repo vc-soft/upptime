@@ -29,6 +29,8 @@ sites:
     url: $EMAIL_GATEWAY
   - name: Mail UI
     url: $VCSOFT_MAIL
+  - name: N8N
+    url: $N8N
   - name: Apache Guacamole 🥑
     url: $APACHE_GUACAMOLE
   - name: Training
