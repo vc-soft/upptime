@@ -233,7 +233,7 @@
     "slug": "awx",
     "status": "up",
     "uptime": "93.33%",
-    "uptimeDay": "2.00%",
+    "uptimeDay": "2.06%",
     "uptimeWeek": "0.29%",
     "uptimeMonth": "62.12%",
     "uptimeYear": "93.33%",
@@ -358,7 +358,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-25": 0
+      "2026-02-25": 1
     }
   },
   {
@@ -389,7 +389,7 @@
     "slug": "training",
     "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "2.00%",
+    "uptimeDay": "2.06%",
     "uptimeWeek": "0.29%",
     "uptimeMonth": "62.30%",
     "uptimeYear": "94.78%",
