@@ -1,7 +1,7 @@
 url: $VPN_SODIMAC
-status: up
-code: 200
-responseTime: 291
-lastUpdated: 2026-02-26T23:37:05.695Z
+status: down
+code: 502
+responseTime: 18503
+lastUpdated: 2026-02-27T19:37:32.307Z
 startTime: 2025-06-17T22:04:23.658Z
 generator: Upptime <https://github.com/upptime/upptime>
