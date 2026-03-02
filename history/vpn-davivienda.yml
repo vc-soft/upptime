@@ -1,7 +1,7 @@
 url: $VPN_DAVIVIENDA
-status: down
-code: 502
-responseTime: 2948
-lastUpdated: 2026-03-01T23:31:05.014Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2026-03-02T13:49:26.753Z
 startTime: 2025-06-17T22:04:25.826Z
 generator: Upptime <https://github.com/upptime/upptime>
