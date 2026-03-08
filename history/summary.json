@@ -6,9 +6,9 @@
     "slug": "site-principal",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "98.48%",
     "time": 1174,
     "timeDay": 293,
@@ -16,7 +16,6 @@
     "timeMonth": 1110,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2026-03-07": 13,
       "2026-03-05": 164,
       "2026-03-04": 34,
       "2026-03-02": 75,
@@ -66,8 +65,7 @@
       "2025-04-10": 113,
       "2025-04-08": 41,
       "2025-04-04": 334,
-      "2025-04-03": 77,
-      "2025-03-08": 42
+      "2025-04-03": 77
     }
   },
   {
@@ -123,7 +121,7 @@
     "status": "up",
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.41%",
+    "uptimeWeek": "78.76%",
     "uptimeMonth": "90.68%",
     "uptimeYear": "98.21%",
     "time": 380,
@@ -165,7 +163,7 @@
     "status": "up",
     "uptime": "98.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.41%",
+    "uptimeWeek": "78.76%",
     "uptimeMonth": "90.53%",
     "uptimeYear": "98.18%",
     "time": 417,
@@ -210,7 +208,7 @@
     "status": "up",
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.41%",
+    "uptimeWeek": "78.76%",
     "uptimeMonth": "90.73%",
     "uptimeYear": "98.21%",
     "time": 342,
@@ -309,11 +307,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 503,
     "timeDay": 509,
     "timeWeek": 503,
@@ -391,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n8-n",
     "status": "up",
-    "uptime": "52.44%",
+    "uptime": "52.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.33%",
-    "uptimeMonth": "52.44%",
-    "uptimeYear": "52.44%",
+    "uptimeWeek": "78.68%",
+    "uptimeMonth": "52.87%",
+    "uptimeYear": "52.87%",
     "time": 400,
     "timeDay": 322,
     "timeWeek": 404,
@@ -588,8 +586,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 250
+      "2025-03-09": 1440
     }
   },
   {
@@ -683,8 +680,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 249
+      "2025-03-09": 1440
     }
   },
   {
@@ -693,7 +689,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-chile",
     "status": "up",
-    "uptime": "87.13%",
+    "uptime": "87.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "78.37%",
     "uptimeMonth": "94.95%",
@@ -778,8 +774,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 249
+      "2025-03-09": 1440
     }
   },
   {
@@ -872,8 +867,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 248
+      "2025-03-09": 1440
     }
   },
   {
