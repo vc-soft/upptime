@@ -1,7 +1,7 @@
 url: $AWX
-status: up
-code: 200
-responseTime: 550
-lastUpdated: 2026-04-19T23:45:31.895Z
+status: down
+code: 503
+responseTime: 453
+lastUpdated: 2026-04-20T12:08:47.012Z
 startTime: 2025-06-26T16:30:39.454Z
 generator: Upptime <https://github.com/upptime/upptime>
