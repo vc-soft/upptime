@@ -4,10 +4,10 @@
     "url": "https://vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/vc-soft.com.ico",
     "slug": "site-principal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "42.56%",
-    "uptimeWeek": "75.71%",
+    "uptimeDay": "42.55%",
+    "uptimeWeek": "75.70%",
     "uptimeMonth": "78.31%",
     "uptimeYear": "96.70%",
     "time": 1250,
@@ -16,6 +16,7 @@
     "timeMonth": 1979,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2026-04-28": 0,
       "2026-04-27": 827,
       "2026-04-26": 339,
       "2026-04-25": 784,
@@ -86,8 +87,7 @@
       "2025-06-07": 18,
       "2025-06-02": 297,
       "2025-06-01": 293,
-      "2025-05-31": 97,
-      "2025-05-30": 16
+      "2025-05-31": 97
     }
   },
   {
@@ -401,11 +401,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n8-n",
     "status": "up",
-    "uptime": "92.01%",
+    "uptime": "92.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.01%",
+    "uptimeYear": "92.02%",
     "time": 405,
     "timeDay": 552,
     "timeWeek": 445,
