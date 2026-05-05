@@ -1,7 +1,7 @@
 url: $EMAIL_GATEWAY
 status: up
 code: 200
-responseTime: 223
-lastUpdated: 2026-05-04T23:59:49.379Z
+responseTime: 167
+lastUpdated: 2026-05-05T23:55:09.702Z
 startTime: 2025-11-11T21:02:29.379Z
 generator: Upptime <https://github.com/upptime/upptime>
