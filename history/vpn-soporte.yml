@@ -1,7 +1,7 @@
 url: $VPN_SOPORTE
-status: down
-code: 502
-responseTime: 192
-lastUpdated: 2026-06-30T00:12:02.998Z
+status: up
+code: 200
+responseTime: 219
+lastUpdated: 2026-06-30T15:59:49.112Z
 startTime: 2025-06-17T22:04:21.027Z
 generator: Upptime <https://github.com/upptime/upptime>
