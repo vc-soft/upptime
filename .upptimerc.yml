@@ -21,8 +21,6 @@ sites:
     url: $VPN_SOPORTE
   - name: VPN Sodimac
     url: $VPN_SODIMAC
-  - name: VPN Davivienda
-    url: $VPN_DAVIVIENDA
   - name: AWX
     url: $AWX
   - name: Mail Gateway
