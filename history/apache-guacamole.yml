@@ -1,7 +1,7 @@
 url: $APACHE_GUACAMOLE
-status: down
-code: 502
-responseTime: 54
-lastUpdated: 2026-08-17T12:17:13.488Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2026-08-17T13:11:47.254Z
 startTime: 2025-12-03T15:59:56.940Z
 generator: Upptime <https://github.com/upptime/upptime>
